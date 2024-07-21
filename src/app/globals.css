@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    margin: 0;
+    padding:0;
+}
+body,html{
+    margin:0;
+    padding:0;
+    background-color:#FDEDEF;
+    top:0;
+    overflow-x: hidden;
+}
+@keyframes loader {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+  
+  .slick-slide > div{
+    margin:0 12px
+  }
+
+  @media screen and (max-width: 768px){
+    .slick-slide > div{
+      margin:0 6px
+    }
+  }
+.translate-x-full {
+    transform: translateX(100%);
+  }
+  
+.translate-x-0 {
+    transform: translateX(0%);
+  }
+  /* MyComponent.css */
+
+  
