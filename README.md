@@ -36,9 +36,9 @@ Online Booking , order status, contact  and Seller Dashboards to maintain their 
 
 
 
-![App Screenshot](/s1.png)
+![App Screenshot](/public/s1.png)
 
-![App Screenshot](/s2.png)
+![App Screenshot](/public/s2.png)
 
 
 
