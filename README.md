@@ -40,6 +40,10 @@ Online Booking , order status, contact  and Seller Dashboards to maintain their 
 
 ![App Screenshot](/public/s2.png)
 
+![App Screenshot](/public/s3.png)
+
+![App Screenshot](/public/s4.png)
+
 
 
 ## Built With
